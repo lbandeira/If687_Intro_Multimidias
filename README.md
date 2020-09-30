@@ -1,2 +1,3 @@
-# If687_Intro_Multimidias
+# If687 Introdução a Multimidias
+
 Cadeira ofertada no CIN-UFPE 
